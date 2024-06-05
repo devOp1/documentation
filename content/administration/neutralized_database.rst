@@ -29,6 +29,7 @@ Here is a non-exhaustive list of the deactivated parameters:
 - payment providers
 - delivery methods
 - :abbr:`IAP (In-App Purchase)` tokens
+- website visibility (prevent search engines from indexing your site)
 
 .. note::
    **A red banner at the top of the screen is displayed on the neutralized database so that it can
